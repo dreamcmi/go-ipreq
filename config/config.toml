@@ -16,3 +16,6 @@
     Path        = "template"
     DefaultFile = "index.html"
     Delimiters  =  ["{{", "}}"]
+
+[database]
+    link = "sqlite:sqlite/ipreq.db"
